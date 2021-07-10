@@ -4,8 +4,11 @@ Setup debian on Oracle VirtualBox
 Install: 
 
 sudo apt-get install build-essential linux-headers-\`uname -r\` dkms<br>
-cd /media/cdrom
-sudo VBoxLinuxAdditions.run
+cd /media/cdrom<br>
+sudo VBoxLinuxAdditions.run<br>
+sudo apt install openjdk-11-jdk
+
+
 
 Reference:
 
