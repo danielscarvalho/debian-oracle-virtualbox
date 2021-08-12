@@ -10,7 +10,30 @@ cd /media/cdrom<br>
 sudo VBoxLinuxAdditions.run<br>
 sudo apt install openjdk-11-jdk
 
+Host: Linux Ubuntu<br>
+Oracle Virtual Box<br>
+Debian (VM)<br>
+VirtualBox Guest Additions<br>
 
+    1. JDK 16+ → Oracle: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
+       
+    2. Apache Tomcat: https://tomcat.apache.org/download-10.cgi
+
+    3. Apache Maven: https://maven.apache.org/download.cgi
+       
+    4. Eclipse: https://www.eclipse.org/downloads/
+       
+    5. Git: apt get git
+    6. curl: apt get curl
+    7. wget: apt get wget
+
+.profile
+<pre>
+export JAVA_HOME=/opt/jdk-16.0.2
+export CATALINA_HOME=/opt/apache-tomcat-10.0.10
+export PATH=$PATH:$JAVA_HOME/bin:/opt/apache-maven-3.8.1/bin
+export CLASSPATH=$JAVA_HOME/lib:$CATALINA_HOME/lib
+</pre>
 
 Reference:
 
