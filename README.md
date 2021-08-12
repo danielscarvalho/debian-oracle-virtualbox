@@ -1,6 +1,8 @@
 # debian-oracle-virtualbox
 Setup debian on Oracle VirtualBox
 
+WEB development enviroment for Java EE
+
 Install: 
 
 sudo apt-get install build-essential linux-headers-\`uname -r\` dkms<br>
