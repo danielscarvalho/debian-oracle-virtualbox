@@ -1,6 +1,6 @@
 # debian-oracle-virtualbox
 
-Setup debian on Oracle VirtualBox: https://www.virtualbox.org/
+Setup do Oracle VirtualBox: https://www.virtualbox.org/
 
 Setup do Debian: https://www.debian.org/
 
