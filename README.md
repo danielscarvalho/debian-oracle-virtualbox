@@ -1,10 +1,10 @@
 # debian-oracle-virtualbox
 
-Setup do Oracle VirtualBox: https://www.virtualbox.org/
+WEB development enviroment for Java EE installation
 
-Setup do Debian: https://www.debian.org/
+- Setup do Oracle VirtualBox: https://www.virtualbox.org/
 
-WEB development enviroment for Java EE
+- Setup do Debian: https://www.debian.org/
 
 Vídeo no YouTube: [>>](https://www.youtube.com/watch?v=MO2RlDhJnOA&ab_channel=DanielCarvalho)
 
