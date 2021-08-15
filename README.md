@@ -1,5 +1,8 @@
 # debian-oracle-virtualbox
+
 Setup debian on Oracle VirtualBox: https://www.virtualbox.org/
+
+Setup do Debian: https://www.debian.org/
 
 WEB development enviroment for Java EE
 
@@ -15,7 +18,7 @@ sudo apt install openjdk-11-jdk
 Host: Linux Ubuntu<br>
 Oracle Virtual Box<br>
 Debian (VM)<br>
-VirtualBox Guest Additions<br>
+VirtualBox Guest Additions<br>: https://linuxize.com/post/how-to-install-virtualbox-guest-additions-on-debian-10/
 
     1. JDK 16+ → Oracle: https://www.oracle.com/java/technologies/javase-jdk16-downloads.html
        
